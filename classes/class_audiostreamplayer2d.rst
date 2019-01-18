@@ -72,7 +72,7 @@ Member Variables
 
   .. _class_AudioStreamPlayer2D_volume_db:
 
-- :ref:`float<class_float>` **volume_db** - Base volume without dampening.
+- :ref:`float<class_float>` **volume_db** - Base volume without dampening in decibel.
 
 
 Description
